@@ -34,7 +34,11 @@ export default function App() {
       <header className="sticky top-0 z-30 -mx-4 mb-6 border-b border-white/10 bg-[#0b1020]/90 px-4 py-4 backdrop-blur">
         <div className="flex flex-wrap items-center justify-between gap-3">
           <h1 className="flex items-center gap-2 text-xl font-bold">
-            <img src="/poke.svg" alt="" className="h-6 w-6" />
+            <img
+              src={`${import.meta.env.BASE_URL}poke.svg`}
+              alt=""
+              className="h-6 w-6"
+            />
             {t.appTitle}
           </h1>
           <div className="flex items-center gap-3">
