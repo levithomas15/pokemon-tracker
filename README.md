@@ -1,6 +1,8 @@
 # Pokémon-Übersicht
 
-Lokale Web-App (läuft im Browser auf dem Mac, kein Backend) für Pokémon-Sammelkarten:
+**🌐 Live:** https://levithomas15.github.io/pokemon-tracker/
+
+Web-App (läuft im Browser auf dem Mac, kein Backend) für Pokémon-Sammelkarten:
 Karten aus allen Sets durchsuchen, Cardmarket-Werte sehen, die eigene Sammlung
 wie ein Aktien-Portfolio tracken, Karten per Kamera scannen und geschätzte
 Pull-Rates pro Pack ansehen.
